@@ -1,3 +1,5 @@
 /.venv
 /src/flask-htmx-create/__pycache__
 /.vscode
+/src/flask-htmx-delete/__pycache__
+/src/flask-htmx-order/__pycache__
